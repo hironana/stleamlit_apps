@@ -3,7 +3,7 @@ import yfinance as yf
 import streamlit as st
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-import mpl_finance as mpl
+import mplfinance as mpl
 import warnings
 from matplotlib.dates import DateFormatter
 
